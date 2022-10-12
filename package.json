@@ -35,7 +35,7 @@
     "cli": "^0.11.0",
     "commander": "^2.9.0",
     "inquirer": "^3.0.6",
-    "nodemiral": "^1.1.1"
+    "nodemiral": "github:mybirer/nodemiral"
   },
   "devDependencies": {
     "coffeescript": "^2.2.4"
